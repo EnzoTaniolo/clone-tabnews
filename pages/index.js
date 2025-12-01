@@ -1,5 +1,9 @@
 function Home() {
-    return <h1>Ana, Eu Te Amo Meu Amor!!</h1>
+    return <div>  
+                <h1>Ana, Eu Te Amo Meu Amor!! ❤️</h1> 
+
+                <h1>Apenas mais 1 dia para voce ser oficialmente meia médica 👩‍⚕️⚕️</h1>
+           </div>
 }
 
 export default Home;
